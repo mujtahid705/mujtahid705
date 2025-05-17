@@ -1,7 +1,9 @@
 # 👋 Hey, I'm Muhammad Mujtahid!
 
-<img src="cover.gif" alt="Welcome GIF" width="400" />
-
+<div align="center">
+  <img src="cover.gif" alt="Welcome GIF" width="400" />
+</div>
+  
 A **Full Stack Developer** & **Cross-Platform App Creator** passionate about crafting modern web and mobile applications that solve real-world problems. With a strong foundation in the **MERN stack**, experience in both **React Native** and **Flutter**, and growing expertise in AI/ML, I'm on a mission to build seamless digital experiences — one project at a time.
 
 ---
