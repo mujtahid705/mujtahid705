@@ -33,10 +33,11 @@ A **Full Stack Developer** & **Cross-Platform App Creator** passionate about cra
 ### 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/muhammad-mujtahid/)
-[![Website](https://img.shields.io/badge/Portfolio-grey?logo=firefox-browser)](https://mujtahid.netlify.app)
+[![Website](https://img.shields.io/badge/Website-grey?logo=firefox-browser)](https://mujtahid.netlify.app)
 [![Email](https://img.shields.io/badge/Gmail-red?logo=gmail)](mailto:mujtahid705@gmail.com)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/mujtahid705)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/mujtahid705)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/muhammad.mujtahid)
+
 
 ---
 
@@ -49,6 +50,10 @@ A **Full Stack Developer** & **Cross-Platform App Creator** passionate about cra
 
 ### 💡 Quote I Live By
 > _"The best way to predict the future is to invent it."_ – Alan Kay
+
+---
+
+📫 Reach me at: mujtahid705@gmail.com
 
 ---
 
