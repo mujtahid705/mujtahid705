@@ -23,7 +23,7 @@ A **Full Stack Developer** & **Cross-Platform App Creator** passionate about cra
 `JavaScript` `Python` `TypeScript` `HTML` `CSS`
 
 **Frameworks & Libraries:**  
-`React` `Next.js` `Node.js` `Express` `Tailwind CSS` `React Native` `Flutter`
+`React` `Next.js` `Node.js` `Express` `Nest JS` `Tailwind CSS` `React Native` 
 
 **Databases & Tools:**  
 `MongoDB` `MySQL` `PostgreSQL` `Git` `VS Code` `Firebase`
