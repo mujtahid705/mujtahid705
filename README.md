@@ -4,15 +4,15 @@
   <img src="cover.gif" alt="Welcome GIF" width="400" />
 </div>
   
-A **Full Stack Developer** & **Cross-Platform App Creator** passionate about crafting modern web and mobile applications that solve real-world problems. With a strong foundation in the **MERN stack**, experience in both **React Native** and **Flutter**, and growing expertise in AI/ML, I'm on a mission to build seamless digital experiences — one project at a time.
+A **Full Stack Developer** & **Cross-Platform App Creator** passionate about crafting modern web and mobile applications that solve real-world problems. With a strong foundation in the **MERN stack**, experience in **React Native**, and growing expertise in AI/ML, I'm on a mission to build seamless digital experiences — one project at a time.
 
 ---
 
 ### 🧠 About Me
-- 🚀 I build web apps using **React**, **Next.js**, **Node.js**, and **Express**
-- 📱 I create mobile apps with **React Native** and **Flutter**
+- 🚀 I build web apps using **React JS**, **Next JS**, **Node JS**, **Express** and **Nest JS**
+- 📱 I create mobile apps with **React Native**
 - 💾 I work with databases like **MongoDB**, **MySQL**, and **PostgreSQL**
-- 🎯 Currently expanding my skills in **TypeScript** and **AI/ML**
+- 🎯 Currently expanding my skills in **Nest JS** and **AI/ML**
 - 🌐 I love merging clean UI with efficient backend logic
 
 ---
@@ -23,7 +23,7 @@ A **Full Stack Developer** & **Cross-Platform App Creator** passionate about cra
 `JavaScript` `Python` `TypeScript` `HTML` `CSS`
 
 **Frameworks & Libraries:**  
-`React` `Next.js` `Node.js` `Express` `Nest JS` `Tailwind CSS` `React Native` 
+`React JS` `Next JS` `Node JS` `Express` `Nest JS` `Tailwind CSS` `React Native` 
 
 **Databases & Tools:**  
 `MongoDB` `MySQL` `PostgreSQL` `Git` `VS Code` `Firebase`
